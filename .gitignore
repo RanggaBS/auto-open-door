@@ -1,0 +1,14 @@
+# My stuff
+_DEV
+
+# Compiled
+_build
+
+# Releases
+_release
+
+# Type annotations
+types
+
+# Derpy Script Loader mod's config
+config.ini
